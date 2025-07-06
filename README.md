@@ -1,6 +1,6 @@
 # iboxfirmware
 Will help to unpack the firmware of the recorder on MStar (maybe not only it)
-1. Install binwalk (for rootfs, initramfs, kernel. Install rustc,python,pip and cargo before it!)
+ 1. Install binwalk (for rootfs, initramfs, kernel. Install rustc,python,pip and cargo before it!)
  ```bash
  git clone https://github.com/ReFirmLabs/binwalk.git
  pip install jefferson
