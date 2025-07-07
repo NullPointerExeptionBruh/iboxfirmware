@@ -16,6 +16,6 @@ Will help to unpack the firmware of the recorder on MStar (maybe not only it)
    Here's you firmware!
 3. Unpack cgi_config.bin dirrectory
    ```bash
-   unpackcgi.py <firmware file.bin> <output dir>
+   unpackcgi.py <jffs2.img> <output dir>
    ```
    "will be continued"
